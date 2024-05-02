@@ -1,3 +1,6 @@
+//Rona Realita Najma - 24060122140124
+//Kamis, 02-05-2024
+
 public class PolymorphismExampleB {
     public static class Pegawai {
         protected String name;
